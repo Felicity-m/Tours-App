@@ -1,1 +1,1 @@
-# Tours-App
+# This is a react Js App that displays a number of tours from an array of objects and displays them on the screen. The app also subscript the tour information by showless or read more functionalities.
